@@ -1,0 +1,9 @@
+C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\classes\debug
+C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-f77749550907938a4f22088fb3b2867f5b2525af.jar
+C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\okio-1.6.0-fdbfb105c8616701d341731fb985f987cf40c971.jar
+C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-194f88e42c5845414ab7ac225bb3cc3d3ce51c83.jar
+C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\gson-2.3.1-f01b509c92c1b9e0fbb278b969c9a76b9f9a4198.jar
+C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-e824dc4ebb1a3452bd97f818e16871374667edec.jar
+C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-e29a60f85d1bc594bf6893cc651a683792d5859b.jar
+C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\classes-00ca7fb00f21116c6a9430e7a8d14b4f55a97af1.jar
+C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\classes-361419bd91ecaf83701a2b9c12b52a44e3f60196.jar

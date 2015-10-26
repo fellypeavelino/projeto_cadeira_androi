@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\classes-00ca7fb00f21116c6a9430e7a8d14b4f55a97af1.jar" />
+    </item>
+    <item
+        jar="C:\Users\mria do carmo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-194f88e42c5845414ab7ac225bb3cc3d3ce51c83.jar" />
+    </item>
+    <item
+        jar="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-e824dc4ebb1a3452bd97f818e16871374667edec.jar" />
+    </item>
+    <item
+        jar="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\classes-361419bd91ecaf83701a2b9c12b52a44e3f60196.jar" />
+    </item>
+    <item
+        jar="C:\Users\mria do carmo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-f77749550907938a4f22088fb3b2867f5b2525af.jar" />
+    </item>
+    <item
+        jar="C:\Users\mria do carmo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\okio-1.6.0-fdbfb105c8616701d341731fb985f987cf40c971.jar" />
+    </item>
+    <item
+        jar="C:\Users\mria do carmo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\gson-2.3.1-f01b509c92c1b9e0fbb278b969c9a76b9f9a4198.jar" />
+    </item>
+    <item
+        jar="C:\Users\mria do carmo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\mria do carmo\AndroidStudioProjects\projeto\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-e29a60f85d1bc594bf6893cc651a683792d5859b.jar" />
+    </item>
+
+</items>

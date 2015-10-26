@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/mria%20do%20carmo/AndroidStudioProjects/projeto/app/src/main/res/values-w820dp/bools.xml -->
+    <eat-comment/>
+    <bool name="fone">true</bool>
+    <bool name="tablet">false</bool>
+    <!-- From: file:/C:/Users/mria%20do%20carmo/AndroidStudioProjects/projeto/app/src/main/res/values-w820dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>
